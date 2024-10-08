@@ -1,3 +1,9 @@
+# Python3 Virtual Environment
+.venv
+
+# VSCode configuration
+.vscode
+
 # Logs
 logs
 *.log

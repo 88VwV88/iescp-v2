@@ -1,3 +1,7 @@
-div {
-  font-size: larger;
+@font-face {
+  font-family: "FiraSans";
+  src: local("Fira Sans"), url("@/assets/FiraSans.ttf");
+}
+* {
+  font-family: "Fira Sans";
 }
